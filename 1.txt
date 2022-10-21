@@ -1,2 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
-"new row in the 1.txt file" 
+"fix in the 1.txt" 
